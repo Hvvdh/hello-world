@@ -1,1 +1,6 @@
 # hello-world
+<!--my bio on GH--!>
+Hello Citizen of world of binary number...
+I am New in Codes
+Please let me get your guide about html codes
+i wan't to learn more about html codes...
